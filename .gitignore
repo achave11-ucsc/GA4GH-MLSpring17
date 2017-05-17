@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+MLTaskEnv/
+/Users/AbrahamC/GA4GH/GA4GH-MLSpring17/PCA/pbmc3k_filtered_gene_bc_matrices.tar
+/Users/AbrahamC/GA4GH/GA4GH-MLSpring17/PCA/filtered_gene_bc_matrices
+.DS_Store
